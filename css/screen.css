@@ -13,9 +13,9 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 }
 
 html {
-  font-size: 1.125em; /* 18 / 16 = 1.125 */
-  line-height: 1.5em; /* 23.994 / 16 = 1.5 */
-  padding: 1.5em; /* 24 / 16 = 1.5 */
+  font-size: 18px; /* 18 / 16 = 1.125 */
+  line-height: 24px; /* 23.994 / 16 = 1.5 */
+  padding: 24px; /* 24 / 16 = 1.5 */
   font-family: 'Lato', sans-serif;
 
 
@@ -24,21 +24,21 @@ html {
 /* Heading Properties */
 h1 {
   font-family: 'Arvo', serif;
-  font-size: 2.6em; /* 41.6 / 16 = 2.6 */
-  line-height: 1em; /* */
-  padding-top: 1.5em; /* 24 / 16 = 1.5*/
-  padding-bottom: 1.5em; /* 24 / 16 = 1.5 */
+  font-size: 42px; /* 41.6 / 16 = 2.6 */
+  line-height: 84px; /* */
+  padding-top: 24px; /* 24 / 16 = 1.5*/
+  padding-bottom: 24px; /* 24 / 16 = 1.5 */
   color: white;
   background-color: #801815;
 }
 
 h2 {
   font-family: 'Arvo', serif;
-  font-size: 2em; /* 32 / 16 = 2 */
-  line-height: 1em; /* */
-  padding-top: 1em; /* */
-  padding-bottom: 1em; /* */
-  padding-left: 0.666em; /* 10.667 / 16 = .666*/
+  font-size: 32px; /* 32 / 16 = 2 */
+  line-height: 48px; /* */
+  padding-top: 16px; /* */
+  padding-bottom: 16px; /* */
+  padding-left: 10.667px; /* 10.667 / 16 = .666*/
   color: white;
   background-color: #116516;
 
